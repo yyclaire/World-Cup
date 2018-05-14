@@ -3,6 +3,10 @@ A scatterplot of historical World Cup attendance for the Udacity Data Visualizat
 
 The visualization is created with D3.js and is annotated to show how the attendance of games involving the home country's team compared to every other teams' attendances.
 
+## Usage
+The highlighted green parts on the map represent for attended countries, and the yellow dots represent for host countries.
+At the end of the animation, users can navigate among years to see specifics.
+
 Original data: http://www.linguasport.com/futbol/internacional/mundial/seekff.asp
 
 ## Website Link
