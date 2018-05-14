@@ -5,5 +5,8 @@ The visualization is created with D3.js and is annotated to show how the attenda
 
 Original data: http://www.linguasport.com/futbol/internacional/mundial/seekff.asp
 
-# Website Screenshot
+## Website Link
+http://www.worldcup.com.s3-website-us-east-1.amazonaws.com/
+
+## Website Screenshot
 ![Imgur](https://i.imgur.com/ljKo85U.png)
